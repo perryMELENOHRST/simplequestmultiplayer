@@ -1,2 +1,11 @@
 # simplequestmultiplayer
-A modification for Simpleplanes VR on the Quest platform that adds multiplayer functionality.
+SimplePlanes VR Quest mulitplayer modification.
+
+## Features:
+- Shared cockpit
+- Character models for shared cockpit
+- Multiplayer (duh)
+
+## Limitations:
+- Local multiplayer only
+
