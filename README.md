@@ -1,4 +1,4 @@
-![image](https://github.com/perryMELENOHRST/simplequestmultiplayer/assets/84308737/633f6afd-5f98-4757-9189-f3eafcf0fdaa)
+![New Project](https://github.com/perryMELENOHRST/simplequestmultiplayer/assets/84308737/790d0faa-b3fb-44d1-a216-6e70cb68a225)
 
 # simplequestmultiplayer
 SimplePlanes VR Quest mulitplayer modification.
