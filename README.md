@@ -17,8 +17,8 @@ SimplePlanes VR Quest mulitplayer modification.
 - Installation instructions will be provided on the first functioning release of SQM.
 
 ## FAQ:
-- Why not just use the inbuilt modding tools?
-Since the Quest version of SimplePlanes is directly based off of the Android port, its modding tools are just as limited. This, along with the fact that SimplePlanes Quest dosen't actually provide a way to enable/use these mods, means that it makes more sense to inject our own C# code inside of the game.
+Why not just use the inbuilt modding tools?
+- Since the Quest version of SimplePlanes is directly based off of the Android port, its modding tools are just as limited. This, along with the fact that SimplePlanes Quest dosen't actually provide a way to enable/use these mods, means that it makes more sense to inject our own C# code inside of the game.
 
 ## Terms of Use
 1. PROFITS (monetary gain):
