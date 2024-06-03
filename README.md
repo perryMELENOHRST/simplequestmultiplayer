@@ -21,9 +21,7 @@ SimplePlanes VR Quest mulitplayer modification.
 Under no circumstances are you allowed to generate profit using the code and software provided by me and the developers that created SQM. This includes: Advertising platforms like Linkvertise, selling the modifcation outright.
 2. DAMAGES
 The developers of SQM are not responsible for any damages that occur as a result of the use or installation of SQM. By using this mod, you accept the risk of damages.
-3. OWNERSHIP
-The owners of the original SQM modifcation and  are declared as GitHub user perryMELENHORST (unnecessarypiat)
 
 ## Credits
-- [@luke-e-gibson] (https://www.github.com/luke-e-gibson)
-- [@perryMELENHORST] (https://github.com/perryMELENOHRST)
+- [@luke-e-gibson] (https://www.github.com/luke-e-gibson) / Backend work
+- [@perryMELENHORST] (https://github.com/perryMELENOHRST) / Frontend work
