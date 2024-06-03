@@ -25,5 +25,5 @@ The developers of SQM are not responsible for any damages that occur as a result
 The owners of the original SQM modifcation and  are declared as GitHub user perryMELENHORST (unnecessarypiat)
 
 ## Credits
-@luke-e-gibson - Backend
-@unnecessarypiat - Frontend
+- [@luke-e-gibson] (https://www.github.com/luke-e-gibson)
+- [@perryMELENHORST] (https://github.com/perryMELENOHRST)
