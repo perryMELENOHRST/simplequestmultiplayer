@@ -1,10 +1,13 @@
-﻿namespace server
+﻿namespace Server
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Server _server;
+            _server = new Server();
+            //_server.Start();
         }
     }
 }
