@@ -5,9 +5,9 @@
         
         static void Main(string[] args)
         {
-            Server _server;
-            _server = new Server();
-            //_server.Start();
+            Console.Title = "Game Server";
+            GameServer.Start(4, 8080);
+            Console.ReadKey();
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+E7+m6tcBE=",
+  "dgSpecHash": "7KWwYFAj8Dc=",
   "success": true,
-  "projectFilePath": "D:\\simplequestmultiplayer\\server\\server.csproj",
+  "projectFilePath": "C:\\dev\\simplequestmultiplayer\\server\\server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luke Gibson\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Luke Gibson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

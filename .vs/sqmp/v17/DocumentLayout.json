@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\temp\\sqmp\\",
+  "WorkspaceRootPath": "C:\\dev\\simplequestmultiplayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF4B3525-EFAF-4704-9C2E-CDB2BD952847}|server\\server.csproj|d:\\temp\\sqmp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45A99B6D-B827-46B2-9B81-90E615A52CB3}|AirTrafficControler\\AirTrafficControler.csproj|c:\\dev\\simplequestmultiplayer\\airtrafficcontroler\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A99B6D-B827-46B2-9B81-90E615A52CB3}|AirTrafficControler\\AirTrafficControler.csproj|solutionrelative:airtrafficcontroler\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A99B6D-B827-46B2-9B81-90E615A52CB3}|AirTrafficControler\\AirTrafficControler.csproj|c:\\dev\\simplequestmultiplayer\\airtrafficcontroler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A99B6D-B827-46B2-9B81-90E615A52CB3}|AirTrafficControler\\AirTrafficControler.csproj|solutionrelative:airtrafficcontroler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4B3525-EFAF-4704-9C2E-CDB2BD952847}|server\\server.csproj|c:\\dev\\simplequestmultiplayer\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4B3525-EFAF-4704-9C2E-CDB2BD952847}|server\\server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4B3525-EFAF-4704-9C2E-CDB2BD952847}|server\\server.csproj|c:\\dev\\simplequestmultiplayer\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF4B3525-EFAF-4704-9C2E-CDB2BD952847}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4B3525-EFAF-4704-9C2E-CDB2BD952847}|server\\server.csproj|c:\\dev\\simplequestmultiplayer\\server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4B3525-EFAF-4704-9C2E-CDB2BD952847}|server\\server.csproj|solutionrelative:server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1B6903-9DD5-425C-8556-CBE24FDFA0AC}|ClientLib\\ClientLib.csproj|c:\\dev\\simplequestmultiplayer\\clientlib\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1B6903-9DD5-425C-8556-CBE24FDFA0AC}|ClientLib\\ClientLib.csproj|solutionrelative:clientlib\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BC68F4-FB70-4737-AE9B-983CA8579365}|ConsoleTestClient\\ConsoleTestClient.csproj|c:\\dev\\simplequestmultiplayer\\consoletestclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BC68F4-FB70-4737-AE9B-983CA8579365}|ConsoleTestClient\\ConsoleTestClient.csproj|solutionrelative:consoletestclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +43,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\temp\\sqmp\\server\\Program.cs",
-              "RelativeDocumentMoniker": "server\\Program.cs",
-              "ToolTip": "D:\\temp\\sqmp\\server\\Program.cs",
-              "RelativeToolTip": "server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\dev\\simplequestmultiplayer\\AirTrafficControler\\Game1.cs",
+              "RelativeDocumentMoniker": "AirTrafficControler\\Game1.cs",
+              "ToolTip": "C:\\dev\\simplequestmultiplayer\\AirTrafficControler\\Game1.cs",
+              "RelativeToolTip": "AirTrafficControler\\Game1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T06:57:18.024Z",
+              "WhenOpened": "2024-06-06T07:12:57.504Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\simplequestmultiplayer\\AirTrafficControler\\Program.cs",
+              "RelativeDocumentMoniker": "AirTrafficControler\\Program.cs",
+              "ToolTip": "C:\\dev\\simplequestmultiplayer\\AirTrafficControler\\Program.cs",
+              "RelativeToolTip": "AirTrafficControler\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:12:56.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\dev\\simplequestmultiplayer\\server\\Server.cs",
+              "RelativeDocumentMoniker": "server\\Server.cs",
+              "ToolTip": "C:\\dev\\simplequestmultiplayer\\server\\Server.cs",
+              "RelativeToolTip": "server\\Server.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:11:29.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\dev\\simplequestmultiplayer\\server\\Client.cs",
+              "RelativeDocumentMoniker": "server\\Client.cs",
+              "ToolTip": "C:\\dev\\simplequestmultiplayer\\server\\Client.cs",
+              "RelativeToolTip": "server\\Client.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:11:09.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Network.cs",
+              "DocumentMoniker": "C:\\dev\\simplequestmultiplayer\\ClientLib\\Network.cs",
+              "RelativeDocumentMoniker": "ClientLib\\Network.cs",
+              "ToolTip": "C:\\dev\\simplequestmultiplayer\\ClientLib\\Network.cs",
+              "RelativeToolTip": "ClientLib\\Network.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:49:26.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\simplequestmultiplayer\\ConsoleTestClient\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleTestClient\\Program.cs",
+              "ToolTip": "C:\\dev\\simplequestmultiplayer\\ConsoleTestClient\\Program.cs",
+              "RelativeToolTip": "ConsoleTestClient\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:44:50.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\simplequestmultiplayer\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\dev\\simplequestmultiplayer\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:57:18.024Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             }
           ]
         }

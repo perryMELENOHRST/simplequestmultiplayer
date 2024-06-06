@@ -1,18 +1,60 @@
-using Microsoft.Extensions.Logging; // Used for ILogger type
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Net;
+using System.Net.Sockets;
+
 using Server.Logger;
 
 namespace Server {
 
-    public class Server 
+    class GameServer
     {
-        private LoggerCreater loggerCreater = new();
-        private ILogger s_logger; // s_ prefix is for server ONLY variables
-        
-        public Server()
+        public static int MaxPlayers { get; private set; }
+        public static int Port { get; private set; }
+        public static Dictionary<int, Client> clients = new Dictionary<int, Client>();
+
+        private static TcpListener tcpListener;
+
+        public static void Start(int _maxPlayers, int _port)
         {
-            s_logger = loggerCreater.CreateLogger("Server");
-            s_logger.LogInformation("Server started");
-            s_logger.LogInformation("listening on port 8080");
+            MaxPlayers = _maxPlayers;
+            Port = _port;
+
+            Console.WriteLine("Starting server...");
+            InitializeServerData();
+
+            tcpListener = new TcpListener(IPAddress.Any, Port);
+            tcpListener.Start();
+            tcpListener.BeginAcceptTcpClient(TCPConnectCallback, null);
+
+            Console.WriteLine($"Server started on port {Port}.");
+        }
+
+        private static void TCPConnectCallback(IAsyncResult _result)
+        {
+            TcpClient _client = tcpListener.EndAcceptTcpClient(_result);
+            tcpListener.BeginAcceptTcpClient(TCPConnectCallback, null);
+            Console.WriteLine($"Incoming connection from {_client.Client.RemoteEndPoint}...");
+
+            for (int i = 1; i <= MaxPlayers; i++)
+            {
+                if (clients[i].tcp.socket == null)
+                {
+                    clients[i].tcp.Connect(_client);
+                    return;
+                }
+            }
+
+            Console.WriteLine($"{_client.Client.RemoteEndPoint} failed to connect: Server full!");
+        }
+
+        private static void InitializeServerData()
+        {
+            for (int i = 1; i <= MaxPlayers; i++)
+            {
+                clients.Add(i, new Client(i));
+            }
         }
     }
 

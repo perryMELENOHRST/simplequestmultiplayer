@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\simplequestmultiplayer\\server\\server.csproj": {}
+    "C:\\dev\\simplequestmultiplayer\\server\\server.csproj": {}
   },
   "projects": {
-    "D:\\simplequestmultiplayer\\server\\server.csproj": {
+    "C:\\dev\\simplequestmultiplayer\\server\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\simplequestmultiplayer\\server\\server.csproj",
+        "projectUniqueName": "C:\\dev\\simplequestmultiplayer\\server\\server.csproj",
         "projectName": "server",
-        "projectPath": "D:\\simplequestmultiplayer\\server\\server.csproj",
+        "projectPath": "C:\\dev\\simplequestmultiplayer\\server\\server.csproj",
         "packagesPath": "C:\\Users\\Luke Gibson\\.nuget\\packages\\",
-        "outputPath": "D:\\simplequestmultiplayer\\server\\obj\\",
+        "outputPath": "C:\\dev\\simplequestmultiplayer\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luke Gibson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

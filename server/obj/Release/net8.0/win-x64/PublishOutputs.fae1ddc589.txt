@@ -1,0 +1,2 @@
+C:\dev\simplequestmultiplayer\server\bin\Release\net8.0\win-x64\publish\server.pdb
+C:\dev\simplequestmultiplayer\server\bin\Release\net8.0\win-x64\publish\server.exe

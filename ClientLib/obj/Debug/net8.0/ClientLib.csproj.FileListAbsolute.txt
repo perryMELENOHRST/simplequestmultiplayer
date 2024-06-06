@@ -1,0 +1,15 @@
+C:\dev\simplequestmultiplayer\ClientLib\bin\Debug\net8.0\ClientLib.deps.json
+C:\dev\simplequestmultiplayer\ClientLib\bin\Debug\net8.0\ClientLib.dll
+C:\dev\simplequestmultiplayer\ClientLib\bin\Debug\net8.0\ClientLib.pdb
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\ClientLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\ClientLib.AssemblyInfoInputs.cache
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\ClientLib.AssemblyInfo.cs
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\ClientLib.csproj.CoreCompileInputs.cache
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\ClientLib.sourcelink.json
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\ClientLib.dll
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\refint\ClientLib.dll
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\ClientLib.pdb
+C:\dev\simplequestmultiplayer\ClientLib\obj\Debug\net8.0\ref\ClientLib.dll
+C:\dev\simplequestmultiplayer\build\ClientLib\Debug\net8.0\ClientLib.deps.json
+C:\dev\simplequestmultiplayer\build\ClientLib\Debug\net8.0\ClientLib.dll
+C:\dev\simplequestmultiplayer\build\ClientLib\Debug\net8.0\ClientLib.pdb
