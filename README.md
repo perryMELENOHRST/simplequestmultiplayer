@@ -5,8 +5,8 @@
 SimplePlanes VR Quest mulitplayer modification.
 
 ## Features:
-- Shared cockpit
-- Character models for shared cockpit
+- Shared cockpit ( maby ) 
+- Character models for shared cockpit ( maby ) 
 - Multiplayer (obviously)
 
 ## Limitations:
